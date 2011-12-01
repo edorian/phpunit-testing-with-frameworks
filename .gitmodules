@@ -1,1 +1,9 @@
-
+[submodule "vendor/phpbb3"]
+	path = vendor/phpbb3
+	url = git://github.com/phpbb/phpbb3.git
+[submodule "vendor/symfony"]
+	path = vendor/symfony
+	url = git://github.com/symfony/symfony.git
+[submodule "vendor/doctrine2"]
+	path = vendor/doctrine2
+	url = git://github.com/doctrine/doctrine2.git
