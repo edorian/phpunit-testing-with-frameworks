@@ -7,3 +7,6 @@
 [submodule "vendor/doctrine2"]
 	path = vendor/doctrine2
 	url = git://github.com/doctrine/doctrine2.git
+[submodule "vendor/agavi"]
+	path = vendor/agavi
+	url = git://github.com/agavi/agavi.git
