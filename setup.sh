@@ -9,6 +9,6 @@ php $vendor/symfony/vendors.php
 
 cd $vendor/doctrine2
 git submodule init
-git submoulde update
+git submodule update
 
 
